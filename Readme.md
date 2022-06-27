@@ -14,7 +14,7 @@
 
 ## How to run
 
-- clone the re
+- clone the repo
 
 - install deps
 
